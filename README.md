@@ -13,3 +13,4 @@ If you are interested in this project, I highly suggest you to read "The Nature 
 内部包含了大部分功能，例如 Seek, arrive, wander, path follow, flow field, Flocking.
 虽然基本没有注释，代码简单易懂，希望对你有所帮助.
 你可以直接在cmd中运行 python ./Env.py
+![image](https://github.com/XD1227/Flocking/blob/master/images/flocking.png)
