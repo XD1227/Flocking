@@ -27,7 +27,7 @@ class Env(tk.Tk, object):
 
     def init(self):
         self.grids = Grids(ENV_W, ENV_H, 20)
-        self.grids.init(self.vehicles
+        self.grids.init(self.vehicles)
         self._build_env()
     def _build_env(self):
         # 所有部件都是在canvas(画布)上面画的
